@@ -1,0 +1,7 @@
+name: libgit2.cr
+version: 0.1.0
+
+authors:
+  - Justin Toniazzo <jutonz42@gmail.com>
+
+license: MIT
